@@ -1,0 +1,15 @@
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.exe
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.deps.json
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.runtimeconfig.json
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.runtimeconfig.dev.json
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.dll
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\SocketServerConsole.pdb
+D:\YAZILIMLAR\C#\SocketServerConsole\bin\Debug\netcoreapp3.1\KaymakNetwork.dll
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.csprojAssemblyReference.cache
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.AssemblyInfoInputs.cache
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.AssemblyInfo.cs
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.csproj.CoreCompileInputs.cache
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.csproj.CopyComplete
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.dll
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.pdb
+D:\YAZILIMLAR\C#\SocketServerConsole\obj\Debug\netcoreapp3.1\SocketServerConsole.genruntimeconfig.cache
